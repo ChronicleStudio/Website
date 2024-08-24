@@ -1,0 +1,11 @@
+article{
+    padding: 70px;
+    padding-top: 10px;
+}
+.openingStatement{
+    font-size: 1.5em;
+    text-indent: 4em;
+}
+article > ul{
+    list-style: disc;
+}
