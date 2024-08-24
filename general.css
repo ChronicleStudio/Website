@@ -1,0 +1,15 @@
+@charset "utf-8";
+body {
+    background-color: dimgrey;
+}
+nav {
+    background-color: darkslategray;
+}
+nav > ul{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+nav > ul > li{
+    list-style: none;
+}
